@@ -224,6 +224,11 @@ text-align: center;
         height: 90px;
     }
 
+    #lglink{
+      width: 90px;
+      border-radius: 50%}
+
+
     img {
 
         height: auto;
